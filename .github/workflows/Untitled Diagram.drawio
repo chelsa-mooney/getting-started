@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T20:46:46.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="I8zNOFXn61wnA-VeP0u5" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T20:04:47.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="pDwU_ImDs6p4cbL-ARkQ" version="16.5.6" type="github">
   <diagram id="eUXah8DcGmbCCXtJsjQs" name="Page-1">
     <mxGraphModel dx="892" dy="1475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="i1_qdgGcEOw3BCc8qwj4-7" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180" y="-30" width="490" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="i1_qdgGcEOw3BCc8qwj4-1" value="Private EC2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="i1_qdgGcEOw3BCc8qwj4-1" value="&amp;nbsp;EC2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="460" y="110" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="i1_qdgGcEOw3BCc8qwj4-6" value="Private Subnet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="i1_qdgGcEOw3BCc8qwj4-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontColor=#000000;" edge="1" parent="1" source="i1_qdgGcEOw3BCc8qwj4-13" target="i1_qdgGcEOw3BCc8qwj4-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i1_qdgGcEOw3BCc8qwj4-13" value="Public EC2&lt;br&gt;Bastion Host" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="i1_qdgGcEOw3BCc8qwj4-13" value="&amp;nbsp;EC2&lt;br&gt;Bastion Host" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="295" y="110" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="i1_qdgGcEOw3BCc8qwj4-14" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;" edge="1" parent="1">
